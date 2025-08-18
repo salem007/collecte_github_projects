@@ -1,0 +1,51 @@
+name,url,stars,commits,language,description
+UnityTechnologies/open-project-1,https://github.com/UnityTechnologies/open-project-1,5923,1962,C#,Unity Open Project #1: Chop Chop
+Facepunch/Facepunch.Steamworks,https://github.com/Facepunch/Facepunch.Steamworks,3249,1293,C#,Another fucking c# Steamworks implementation
+sinai-dev/UnityExplorer,https://github.com/sinai-dev/UnityExplorer,2687,1094,C#,"An in-game UI for exploring, debugging and modifying IL2CPP and Mono Unity games."
+hadashiA/VContainer,https://github.com/hadashiA/VContainer,2397,1363,C#,"The extra fast, minimum code size, GC-free DI (Dependency Injection) library running on Unity Game Engine."
+in0finite/SanAndreasUnity,https://github.com/in0finite/SanAndreasUnity,2392,2071,C#,Open source reimplementation of GTA San Andreas game engine in Unity
+JasonXuDeveloper/JEngine,https://github.com/JasonXuDeveloper/JEngine,2097,1006,C#,The solution that allows unity games to update in runtime. 使Unity开发的游戏支持热更新的解决方案。
+snozbot/fungus,https://github.com/snozbot/fungus,1824,2629,C#,An easy to use Unity 3D library for creating illustrated Interactive Fiction games and more.
+genaray/Arch,https://github.com/genaray/Arch,1343,552,C#,A high-performance C# based Archetype & Chunks Entity Component System (ECS) with optional multithreading.
+ricardojmendez/UnitySteer,https://github.com/ricardojmendez/UnitySteer,1241,581,C#,"Steering, obstacle avoidance and path following behaviors for the Unity Game Engine"
+mofr/Diablerie,https://github.com/mofr/Diablerie,1122,707,C#,Diablo 2 reimplementation on unity
+0x7c13/Pal3.Unity,https://github.com/0x7c13/Pal3.Unity,933,842,C#,The Legend of Sword and Fairy 3 (仙剑奇侠传三) & The Legend of Sword and Fairy 3 Gaiden: Wenqing Pian (仙剑奇侠传三外传：问情篇) re-implementation using C#/Unity
+AnyRPG/AnyRPGCore,https://github.com/AnyRPG/AnyRPGCore,886,1308,C#,Open source Role Playing Game engine for Unity 3D written in C#.
+ipodtouch0218/NSMB-MarioVsLuigi,https://github.com/ipodtouch0218/NSMB-MarioVsLuigi,851,1001,C#,"Standalone Unity remake of New Super Mario Bros DS' multiplayer gamemode, ""Mario vs Luigi"""
+cmilr/Unity2D-Components,https://github.com/cmilr/Unity2D-Components,758,532,C#,"A constantly evolving array of Unity C# components for 2D games, including classes for pixel art cameras, events & messaging, saving & loading game data, collision handlers, object pools, and more."
+sailro/EscapeFromTarkov-Trainer,https://github.com/sailro/EscapeFromTarkov-Trainer,689,800,C#,Escape from Tarkov (EFT) Trainer - Internal
+MirageNet/Mirage,https://github.com/MirageNet/Mirage,546,8777,C#,Easy to use high performance Network library for Unity 3d
+planetarium/libplanet,https://github.com/planetarium/libplanet,528,9905,C#,"Blockchain in C#/.NET for on-chain, decentralized gaming"
+freezy/VisualPinball.Engine,https://github.com/freezy/VisualPinball.Engine,457,3937,C#,:video_game: Visual Pinball Engine for Unity
+526077247/GenshinGamePlay,https://github.com/526077247/GenshinGamePlay,393,719,C#,参考Genshin的GamePlay框架，包括战斗、解谜、怪物AI、剧情，持续开发中
+finol-digital/Card-Game-Simulator,https://github.com/finol-digital/Card-Game-Simulator,375,4152,C#,"Create, Share, and Play"
+spatialos/gdk-for-unity,https://github.com/spatialos/gdk-for-unity,358,825,C#,SpatialOS GDK for Unity
+Nashet/Prosperity-Wars,https://github.com/Nashet/Prosperity-Wars,297,1004,C#,Game-like agent based economy simulator
+RE-SS3D/SS3D,https://github.com/RE-SS3D/SS3D,272,692,C#,"Space Station 3D, another remake of SS13, but with an extra D."
+nicoco007/BeatSaberCustomAvatars,https://github.com/nicoco007/BeatSaberCustomAvatars,267,1389,C#,Beat Saber mod that allows the use of custom player avatars for in-game body presence.
+Phynic/SLGanim,https://github.com/Phynic/SLGanim,207,601,C#,木叶战记续作
+Voltstro-Studios/Team-Capture,https://github.com/Voltstro-Studios/Team-Capture,156,1564,C#,"Team-Capture - A multiplayer FPS game, inspired by games like Quake and TF2. Done in Unity"
+404Lcc/Lcc,https://github.com/404Lcc/Lcc,131,681,C#,Lcc框架是针对Unity开发的轻量级框架，可快速上手开发Steam、安卓、IOS等项目
+penguinsword/foundation,https://github.com/penguinsword/foundation,129,586,C#,"Game Mobile Foundation (Android + iOS) Using Unity3D. Simple, Fast and no GC"
+UnioGame/UniGame.ViewSystem,https://github.com/UnioGame/UniGame.ViewSystem,113,747,C#,MVVM Views System for Unity3D
+jcs090218/JCSUnity,https://github.com/jcs090218/JCSUnity,103,3178,C#,Rapidly build your game with multiple or various components and preset default settings
+FieldWarning/projectFieldWarning,https://github.com/FieldWarning/projectFieldWarning,101,1678,C#,Project: Field Warning is a community-made RTS game centered around lethal regiment and division-scale warfare.
+randomerz/Slider,https://github.com/randomerz/Slider,94,5162,C#,A 2D Puzzle-Exploration game based on 8 puzzle
+Fragsurf/Fragsurf-2,https://github.com/Fragsurf/Fragsurf-2,88,660,C#,Fragsurf is an actively developed standalone game based on HL2 surf and bhop movement mechanics.
+Bozar/FungusCave,https://github.com/Bozar/FungusCave,87,702,C#,"A Roguelike game made with Unity. Explore the cave, fight enemies, and find Encyclopedia of Yendor to cure your infections."
+dotBunny/GDX,https://github.com/dotBunny/GDX,77,1611,C#,Game Development Extensions
+vgwb/Antura,https://github.com/vgwb/Antura,73,3005,C#,the award winning open source literacy and language learning game for kids
+laicasaane/tower_of_encosy,https://github.com/laicasaane/tower_of_encosy,71,501,C#,A sandbox to learn and play around
+Victor2266/The-Fluid-Toy,https://github.com/Victor2266/The-Fluid-Toy,62,1431,C#,"An Opensource, GPU-Accelerated, Particle-Based, Multi-phase, Real-time Fluid Simulation Engine for Unity and a game which showcases its features."
+akarnokd/ThePlanetCrafterMods,https://github.com/akarnokd/ThePlanetCrafterMods,58,1041,C#,BepInEx+Harmony mods for the Unity/Steam game The Planet Crafter
+opencog/unity3d-opencog-game,https://github.com/opencog/unity3d-opencog-game,56,550,C#,A Unity3D game world for OpenCog-controlled agents
+vgwb/Antura_arabic,https://github.com/vgwb/Antura_arabic,56,7187,C#,"winner of the EduApp4Syria international initiative, the learning game ""Antura and the Letters (Arabic)"" teaches arabic kids how to read and write. Complete open source Unity project."
+Cuerzor/MinecraftVsZombies2Unity,https://github.com/Cuerzor/MinecraftVsZombies2Unity,54,1394,C#,"A fan game of Minecraft, Plants vs Zombies and Touhou Project."
+sfc-sdp/GameCanvas-Unity,https://github.com/sfc-sdp/GameCanvas-Unity,48,508,C#,慶應義塾大学『スマートデバイスプログラミング』教材 GameCanvas for Unity
+UnioGame/UniGame.GameFlow,https://github.com/UnioGame/UniGame.GameFlow,44,706,C#,Reactive node system for Unity
+trolit/projectZero,https://github.com/trolit/projectZero,44,1084,C#,"Full game, open source project in Unity 3D engine(100+ scripts, about 6000 sloc, rich documentation available in polish and english)"
+Bozar/AxeMan,https://github.com/Bozar/AxeMan,44,570,C#,"Axe Man is a Unity Roguelike game. Build four skills with ""Lego blocks"" and fight your way through the dungeon."
+mapisarek/Survival_Zombie_2D,https://github.com/mapisarek/Survival_Zombie_2D,41,507,C#,Zombie survival game made with the Unity engine
+alex-cherkaski/Flame-Keeper,https://github.com/alex-cherkaski/Flame-Keeper,37,531,C#,A 3D puzzle platformer game in the Unity 3D engine.
+FelixEder/RetroFutureGame,https://github.com/FelixEder/RetroFutureGame,36,856,C#,A 2D Metroidvania made with Unity
+CarlosMatheus/Overhead,https://github.com/CarlosMatheus/Overhead,36,532,C#,"Tower defense game, National finalist on the Brazilian Games Symposium - SBGames 2017"
